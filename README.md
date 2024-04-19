@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently interested in Explainability, Optimal Transport, Domain Adaptation
-- 📫 How to reach me: jbone@bu.edu
+- 📫 How to reach me: jbone.data@gmail.com
 - 😄 Pronouns: he/him
 
 
