@@ -7,9 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently interested in Explainability, Optimal Transport, Domain Adaptation
-- 📫 How to reach me: jbone.data@gmail.com
-- 😄 Pronouns: he/him
+- How to reach me: jbone.data@gmail.com
+- Pronouns: he/him
 
 
 ## Stats drawn from my public repos:
